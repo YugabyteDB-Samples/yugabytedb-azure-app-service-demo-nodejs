@@ -36,6 +36,8 @@ This application consists of a Node.js server, YugabyteDB Database and React fro
 ```
 
 4. View the application UI at http://localhost:8080.
+   
+<img width="1728" alt="Screenshot 2023-10-16 at 3 29 26 PM" src="https://github.com/YugabyteDB-Samples/yugabytedb-azure-nodejs-demos/assets/2041330/82523d33-9e58-41dc-a596-4ed12086e28e">
 
 ## Deploying to Azure App Service
 
